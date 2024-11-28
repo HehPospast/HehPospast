@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HehPospast/HehPospast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hey there! 👋</h1>
+
+<h3 align="center">I'm Junior Python Dev</h3>
+
+- 🔭 I’m currently working on private things
+
+<p align="center">
+    💬 Reach out on <a href="https://t.me/HehPospast">Telegram</a>
+</p>
+<!--
+- 🌱 I’m currently learning ****-->
+
+
+<h2 align="center">🔧Tech I Use</h2>
+<p align="center">
+        Python, MySQL, MongoDB, Aiogram, Django.
+</p>
+
+<div id="footer" align="center">
+    <img src="https://github.com/HehPospast/HehPospast/blob/main/static/furina-dance.gif" alt = "">
+</div>
