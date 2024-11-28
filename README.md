@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there! 👋</h1>
 
-<h2 align="center">I'm Junior Python Dev</h2>
+<h2 align="center">I'm maybe Junior Python Dev</h2>
 
 <p align="center"><b>
 🔭 I’m currently working on private things
@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">🔧Tech I Use</h2>
 <p align="center">
-        Python, MySQL, MongoDB, Aiogram, Django.
+        MySQL, MongoDB, Aiogram, and some Django.
 </p>
 
-<br>
 <div id="footer" align="center">
     <img src="https://github.com/HehPospast/HehPospast/blob/main/static/furina-dance.gif" alt = "">
 </div>
