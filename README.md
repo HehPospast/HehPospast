@@ -14,23 +14,26 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there! 👋</h1>
 
-<h2 align="center">I'm maybe Junior Python Dev</h2>
+<h2>I'm maybe Junior Python Dev</h2>
 
-<p align="center"><b>
+<p><b>
 🔭 I’m currently working on private things
 </b></p>
 
-<p align="center">
+<p>
     💬 Reach out on <a href="https://t.me/HehPospast">Telegram</a>
 </p>
 <!--
 - 🌱 I’m currently learning ****-->
 
 
-<h2 align="center">🔧Tech I Use</h2>
-<p align="center">
-        MySQL, MongoDB, Aiogram, and some Django.
-</p>
+<h2>🔧Tech I Use</h2>
+
+- MySQL
+- Aiogram
+- MongoDB
+- Aiogram
+- and some Django
 
 <div id="footer" align="center">
     <img src="https://github.com/HehPospast/HehPospast/blob/main/static/furina-dance.gif" alt = "">
