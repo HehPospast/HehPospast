@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there! 👋</h1>
 
-<h3 align="center">I'm Junior Python Dev</h3>
+<h2 align="center">I'm Junior Python Dev</h2>
 
-- 🔭 I’m currently working on private things
+<p align="center"><b>
+🔭 I’m currently working on private things
+</b></p>
 
 <p align="center">
     💬 Reach out on <a href="https://t.me/HehPospast">Telegram</a>
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
         Python, MySQL, MongoDB, Aiogram, Django.
 </p>
 
+<br>
 <div id="footer" align="center">
     <img src="https://github.com/HehPospast/HehPospast/blob/main/static/furina-dance.gif" alt = "">
 </div>
