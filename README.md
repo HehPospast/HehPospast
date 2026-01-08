@@ -35,19 +35,28 @@
 
 ---
 
-### 📊 GitHub Statistics
+[//]: # (### 📊 GitHub Statistics)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HehPospast&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HehPospast&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+[//]: # (  <img src="https://stats.realkimia.ir/api?username=HehPospast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HehPospast&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com?user=HehPospast&theme=tokyonight" alt="GitHub Streak"/>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://stats.realkimia.ir/api/top-langs?username=HehPospast&theme=tokyonight&layout=donut&hide_border=true" alt="Top Languages"/>)
+
+[//]: # (</p>)
 
 
 
