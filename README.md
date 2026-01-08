@@ -11,7 +11,11 @@
 </p>
 
 
-[![Site Status](https://status.hehpospast.ru/api/badge/4/uptime/720?labelPrefix=Site%20)](https://status.hehpospast.ru/)
+<p align="center">
+  <a href="https://status.hehpospast.ru/">
+    <img src="https://status.hehpospast.ru/api/badge/4/uptime/720?labelPrefix=hehpospast.ru%20bad%20" alt="Site Status"/>
+  </a>
+</p>
 
 
 ---
