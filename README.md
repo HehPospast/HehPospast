@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://status.hehpospast.ru/">
-    <img src="https://status.hehpospast.ru/api/badge/4/uptime/720?labelPrefix=hehpospast.ru%20bad%20" alt="Site Status"/>
+    <img src="https://status.hehpospast.com/api/badge/4/uptime/720?labelPrefix=hehpospast.ru%20bad%20" alt="Site Status"/>
   </a>
 </p>
 
