@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - Building self-hosted apps, backend services, and automation tools
-- Focused on Python, FastAPI, API design[README.md](README.md)
+- Focused on Python, FastAPI, API design
 - Interested in Telegram bots, media tools, file platforms, and product-like pet projects
 - Open to collaboration on useful and interesting products
 
