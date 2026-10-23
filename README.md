@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - Building self-hosted apps, backend services, and automation tools
-- Focused on Python, FastAPI, API design
+- Focused on Python, FastAPI, API design[README.md](README.md)
 - Interested in Telegram bots, media tools, file platforms, and product-like pet projects
 - Open to collaboration on useful and interesting products
 
@@ -76,7 +76,9 @@ My personal website and API where I experiment with integrations, and backend ar
 </p>
 
 ---
-
+<div align="center">
+    <p>Avatar artwork by <a href="https://t.me/hoklimm_arts">Hoklimm</a>.</p>
+</div>
 <div align="center">
   <img src="https://github.com/HehPospast/HehPospast/blob/main/static/furina-dance.gif" alt="Furina Dance" width="260"/>
   <p><i>Thanks for visiting.</i></p>
