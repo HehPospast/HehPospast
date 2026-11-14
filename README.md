@@ -11,9 +11,6 @@
   <a href="https://www.hehpospast.com">
     <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://status.hehpospast.com/">
-    <img src="https://status.hehpospast.com/api/badge/4/uptime/720?labelPrefix=hehpospast.ru%20bad%20" alt="Site Status"/>
-  </a>
 </p>
 
 ---
